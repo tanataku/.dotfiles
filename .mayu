@@ -1,0 +1,11 @@
+include "109.mayu"
+
+# CapsLock to Control
+mod Control += Eisuu
+key *Eisuu = *LControl
+mod Control += E0Eisuu
+key *E0Eisuu = *LControl
+
+# Space to L-Shift (key repeat available)
+mod shift += !!!Space
+
